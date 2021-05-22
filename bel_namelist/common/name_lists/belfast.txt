@@ -1,0 +1,243 @@
+## The Belfast Namelist
+## Created by MHGoose
+
+belfast ={
+	category = "Humanoid"
+	randomized = no
+	alias = "Belfast"
+
+	ship_names = {
+		
+		corvette = {
+			Belfast
+		}
+		
+		destroyer = {
+			Belfast
+		}
+		
+		cruiser = {
+			Belfast
+		}
+		
+		battleship = {
+			Belfast
+		}
+
+		titan = {
+			Belfast
+		}
+
+		colossus = {
+			Belfast
+		}
+
+		juggernaut = {
+			Belfast
+		}
+
+		constructor = {
+			Belfast
+		}
+		
+		colonizer = {
+			Belfast
+		}
+
+		sponsored_colonizer = { # needed when there are no generic names
+			Belfast
+		}
+		
+		science = {
+			Belfast
+		}
+		
+		transport = {
+			Belfast
+		}
+
+		military_station_small = {
+			Belfast
+		}
+
+		ion_cannon = {
+			Belfast
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Home Fleet" "Mediterranean Fleet" "North Sea Fleet" "Atlantic Fleet" "Reserve Fleet" "Western Fleet" "Eastern Fleet" "Channel Fleet" "Grand Fleet"
+		}
+		sequential_name = "%O% Fleet"
+	}
+	
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%O% Planetary Guard"
+		}
+		
+		machine_assault_1 = {
+			sequential_name = "%O% Expeditionary Force"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%O% Expeditionary Force"
+		}
+		
+		machine_assault_3 = {
+			sequential_name = "%O% Expeditionary Force"
+		}
+	
+		defense_army = {
+			sequential_name = "%O% Planetary Guard"
+		}
+
+		assault_army = {
+			sequential_name = "%O% Expeditionary Force"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Indentured Rifles"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Clone Army"
+		}
+		
+		undead_army = {
+			sequential_name = "%O% Dread Commando"
+		}
+
+		robotic_army = {
+			sequential_name = "%O% Hunter-Killer Group"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Ground Defense Matrix"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psi Commando"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Siren Division"
+		}
+		
+		gene_warrior_army = {
+			random_names = {
+				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
+				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
+			}
+			sequential_name = "%O% Bio-Engineered Squadron"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% Garrison Force"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% Mechanized Garrison"
+		}
+
+		primitive_army = {
+			sequential_name = "Primitive Army %C%"
+		}
+		industrial_army = {
+			sequential_name = "Industrial Army %C%"
+		}
+		postatomic_army = {
+			sequential_name = "Post-Atomic Army %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Belfast
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_gaia = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+
+	### CHARACTERS
+
+	character_names = {
+
+		names1 = {
+			weight = 1
+			first_names_male = {
+				Belfast
+			}
+			first_names_female = {
+				Belfast
+			}
+			second_names = {
+				""
+			}
+			regnal_first_names_male = {
+				Belfast
+			}
+			regnal_first_names_female = {
+				Belfast
+			}
+			regnal_second_names = {
+				""
+			}
+		}
+	}
+}
